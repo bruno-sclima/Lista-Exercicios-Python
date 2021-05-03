@@ -5,10 +5,6 @@
 4 - dada uma lista de strings, contar e retornar o número de
 strings que tem tamanho igual ou maior que 2 e cujos primeiro
 e último caracteres são os mesmos.
-Exemplo de execução:
-  >>> lista = ['abc', 'xyz', 'aba', '1221']
-  >>> print("exercicio_4(lista) = %d" % exercicio_4(lista))
-  exercicio_4(lista) = 2
  5 - copiar ou clonar uma lista.
  6 - comparar os elementos de duas listas e retornar True se elas
 tiverem pelo menos um elemento em comum. As listas podem
