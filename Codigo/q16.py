@@ -1,0 +1,22 @@
+real = float(1)
+dolar = float(input("Digite a cotação do dolar: "))
+def funcao(d):
+	real = float(1)
+	l = list()
+	t1 = ()
+	t2 = ()
+	for i in range(1,101,1):
+		l1 = list()
+		l2 = list()
+		l1.append(real*i)
+		l1.append(d*i)
+		t1 = tuple(l1)
+		l.append(t1)
+		t1 = ()
+		l2.append(d*i)
+		l2.append(real/(d*i))
+		t2 = tuple(l2)
+		l.append(t2)
+		t2 = ()
+	return l	
+print(funcao(dolar))
