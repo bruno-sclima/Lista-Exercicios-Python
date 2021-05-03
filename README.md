@@ -1,11 +1,11 @@
 # Lista-Exercicios-Python
-1 - somar todos os elementos de uma lista
-2 - achar a média de todos elementos de uma lista
-3 -  encontrar o maior e o menor elementos de uma lista
-4 - dada uma lista de strings, contar e retornar o número de
+*1 - somar todos os elementos de uma lista
+*2 - achar a média de todos elementos de uma lista
+*3 -  encontrar o maior e o menor elementos de uma lista
+*4 - dada uma lista de strings, contar e retornar o número de
 strings que tem tamanho igual ou maior que 2 e cujos primeiro
 e último caracteres são os mesmos.
- 5 - copiar ou clonar uma lista.
+* 5 - copiar ou clonar uma lista.
  6 - comparar os elementos de duas listas e retornar True se elas
 tiverem pelo menos um elemento em comum. As listas podem
 ser de tamanhos diferentes.
